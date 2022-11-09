@@ -110,3 +110,6 @@ h2{
 #produtos .flex-container, #contato .flex-container{
     margin-top: 43px;
 }
+footer{
+    padding: 65px;
+}
