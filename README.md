@@ -1,2 +1,5 @@
 # Projeto Pet Shop
-Projeto de site de um Pet Shop feito em sala de aula com o professor de PW no 1º módulo
+Projeto de um site de Pet Shop feito em sala de aula usando HTML e CSS com o professor Wilians na aula de PW 1 módulo.
+
+# Figma
+[Link do Projeto](https://www.figma.com/file/Ggmim9Uw2RZZ1DDxiA4hHs/PetShop-Mary-%26-Gabi)
